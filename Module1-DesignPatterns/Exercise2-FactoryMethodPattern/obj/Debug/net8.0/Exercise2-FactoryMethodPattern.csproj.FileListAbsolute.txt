@@ -1,0 +1,15 @@
+C:\Users\rohit\OneDrive\Desktop\Deep skilling\Module1-DesignPatterns\Exercise2-FactoryMethodPattern\bin\Debug\net8.0\Exercise2-FactoryMethodPattern.exe
+C:\Users\rohit\OneDrive\Desktop\Deep skilling\Module1-DesignPatterns\Exercise2-FactoryMethodPattern\bin\Debug\net8.0\Exercise2-FactoryMethodPattern.deps.json
+C:\Users\rohit\OneDrive\Desktop\Deep skilling\Module1-DesignPatterns\Exercise2-FactoryMethodPattern\bin\Debug\net8.0\Exercise2-FactoryMethodPattern.runtimeconfig.json
+C:\Users\rohit\OneDrive\Desktop\Deep skilling\Module1-DesignPatterns\Exercise2-FactoryMethodPattern\bin\Debug\net8.0\Exercise2-FactoryMethodPattern.dll
+C:\Users\rohit\OneDrive\Desktop\Deep skilling\Module1-DesignPatterns\Exercise2-FactoryMethodPattern\bin\Debug\net8.0\Exercise2-FactoryMethodPattern.pdb
+C:\Users\rohit\OneDrive\Desktop\Deep skilling\Module1-DesignPatterns\Exercise2-FactoryMethodPattern\obj\Debug\net8.0\Exercise2-FactoryMethodPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rohit\OneDrive\Desktop\Deep skilling\Module1-DesignPatterns\Exercise2-FactoryMethodPattern\obj\Debug\net8.0\Exercise2-FactoryMethodPattern.AssemblyInfoInputs.cache
+C:\Users\rohit\OneDrive\Desktop\Deep skilling\Module1-DesignPatterns\Exercise2-FactoryMethodPattern\obj\Debug\net8.0\Exercise2-FactoryMethodPattern.AssemblyInfo.cs
+C:\Users\rohit\OneDrive\Desktop\Deep skilling\Module1-DesignPatterns\Exercise2-FactoryMethodPattern\obj\Debug\net8.0\Exercise2-FactoryMethodPattern.csproj.CoreCompileInputs.cache
+C:\Users\rohit\OneDrive\Desktop\Deep skilling\Module1-DesignPatterns\Exercise2-FactoryMethodPattern\obj\Debug\net8.0\Exercise2-FactoryMethodPattern.sourcelink.json
+C:\Users\rohit\OneDrive\Desktop\Deep skilling\Module1-DesignPatterns\Exercise2-FactoryMethodPattern\obj\Debug\net8.0\Exercise2-FactoryMethodPattern.dll
+C:\Users\rohit\OneDrive\Desktop\Deep skilling\Module1-DesignPatterns\Exercise2-FactoryMethodPattern\obj\Debug\net8.0\refint\Exercise2-FactoryMethodPattern.dll
+C:\Users\rohit\OneDrive\Desktop\Deep skilling\Module1-DesignPatterns\Exercise2-FactoryMethodPattern\obj\Debug\net8.0\Exercise2-FactoryMethodPattern.pdb
+C:\Users\rohit\OneDrive\Desktop\Deep skilling\Module1-DesignPatterns\Exercise2-FactoryMethodPattern\obj\Debug\net8.0\Exercise2-FactoryMethodPattern.genruntimeconfig.cache
+C:\Users\rohit\OneDrive\Desktop\Deep skilling\Module1-DesignPatterns\Exercise2-FactoryMethodPattern\obj\Debug\net8.0\ref\Exercise2-FactoryMethodPattern.dll
